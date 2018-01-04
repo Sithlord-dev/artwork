@@ -1,6 +1,8 @@
-# Artwork for SageMath/Cloud
+# Artwork for SageMath
 
-These graphics and images are for [www.sagemath.org](http://www.sagemath.org) and/or [cloud.sagemath.com](https://cloud.sagemath.com).
+These graphics and images are for [www.sagemath.org](http://www.sagemath.org).
+
+
 
 ## License
 
